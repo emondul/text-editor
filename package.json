@@ -19,8 +19,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "html-webpack-plugin": "^5.5.0",
     "if-env": "^1.0.4",
-    "webpack": "^5.72.0"
+    "mini-css-extract-plugin": "^2.6.0",
+    "path": "^0.12.7",
+    "webpack": "^5.72.0",
+    "webpack-pwa-manifest": "^4.3.0",
+    "workbox-webpack-plugin": "^6.5.3"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
